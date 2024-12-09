@@ -1,6 +1,4 @@
-function solution(arr, idx) {
-    let answer = 0;
-    
+function solution(arr, idx) {    
     for (let i = idx; i < arr.length; i++){
         if(arr[i] === 1){
             return i;

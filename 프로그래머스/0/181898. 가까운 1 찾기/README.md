@@ -1,10 +1,10 @@
 # [level 0] 가까운 1 찾기 - 181898 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181898) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181898#) 
 
 ### 성능 요약
 
-메모리: 33.6 MB, 시간: 0.06 ms
+메모리: 33.8 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 09일 16:44:10
+2024년 12월 09일 16:44:57
 
 ### 문제 설명
 
